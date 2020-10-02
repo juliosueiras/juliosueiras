@@ -1,3 +1,10 @@
+My Current Focus:
+
+| Name | Link | Description |
+|------|------|-------------|
+| terraform-lsp | [Click me](https://github.com/juliosueiras/terraform-lsp) | Terraform LSP, focusing on state reading |
+| juliosueiras-nix | [Click me](https://github.com/juliosueiras-nix) | My Nix Org to focus on creating nix-based Game toolchains |
+ 
 My most popular projects:
 
 | Name | Link |
